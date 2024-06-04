@@ -1,0 +1,7 @@
+target
+testData
+
+# Nextflow related files
+.nextflow
+.nextflow.log*
+work
