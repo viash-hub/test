@@ -1,11 +1,11 @@
-name: htrnaseq
+name: test
 description: |
-  High-throughput pipeline [WIP]
+  A viash Hub CI test repository.
 license: MIT
 keywords: [bioinformatics, sequence, high-throughput, mapping, counting, pipeline]
 links:
-  issue_tracker: https://github.com/viash-hub/htrnaseq/issues
-  repository: https://github.com/viash-hub/htrnaseq
+  issue_tracker: https://github.com/viash-hub/test/issues
+  repository: https://github.com/viash-hub/test
 
 viash_version: 0.9.0-RC7
 
