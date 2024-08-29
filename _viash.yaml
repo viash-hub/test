@@ -1,7 +1,6 @@
 name: test
 description: |
   A viash Hub CI test repository.
-version: 1.0.0
 license: MIT
 keywords: [bioinformatics, sequence, high-throughput, mapping, counting, pipeline]
 links:
