@@ -1,6 +1,6 @@
 include { well_demultiplex } from params.rootDir + "/target/nextflow/workflows/well_demultiplex/main.nf"
 
-base = "gs://viash-hub-test-data/htrnaseq/v1/"
+base = "test_resources/"
 
 workflow test_wf {
   output_ch = Channel.fromList([
